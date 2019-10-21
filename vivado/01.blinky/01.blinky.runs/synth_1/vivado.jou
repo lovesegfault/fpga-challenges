@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Oct 20 20:25:03 2019
+# Process ID: 211482
+# Current directory: /home/lovesegfault/src/fpga-challenges/vivado/01.blinky/01.blinky.runs/synth_1
+# Command line: vivado -log blinky.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blinky.tcl
+# Log file: /home/lovesegfault/src/fpga-challenges/vivado/01.blinky/01.blinky.runs/synth_1/blinky.vds
+# Journal file: /home/lovesegfault/src/fpga-challenges/vivado/01.blinky/01.blinky.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source blinky.tcl -notrace

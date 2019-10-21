@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct 21 10:40:21 2019
+# Process ID: 276700
+# Current directory: /home/lovesegfault/src/fpga-challenges/vivado/02.pwm/02.pwm.runs/impl_1
+# Command line: vivado -log pwm.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pwm.tcl -notrace
+# Log file: /home/lovesegfault/src/fpga-challenges/vivado/02.pwm/02.pwm.runs/impl_1/pwm.vdi
+# Journal file: /home/lovesegfault/src/fpga-challenges/vivado/02.pwm/02.pwm.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source pwm.tcl -notrace
